@@ -1,0 +1,13 @@
+.section-3 {
+  margin-top: 150px;
+  position: relative;
+}
+.img-ph {
+  position: absolute;
+}
+
+.img-ph img:nth-child(2) {
+  position: relative;
+  left: -539px;
+  top: 294px;
+}

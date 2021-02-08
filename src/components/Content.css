@@ -1,0 +1,13 @@
+.content-item h2 {
+  font-size: 50px;
+  width: 80%;
+  font-weight: 700;
+}
+p {
+  color: #b1aaaa;
+  width: 83%;
+  margin-top: 20px;
+}
+.content-item {
+  margin-top: 200px;
+}

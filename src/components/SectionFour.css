@@ -1,0 +1,18 @@
+.section-4 {
+  margin-top: 250px;
+  position: relative;
+}
+.img-ph2 {
+  position: absolute;
+  right: 100px;
+  top: 0;
+}
+.img-ph2 img:nth-child(1) {
+  position: relative;
+  right: -35%;
+  top: 214px;
+}
+.img-ph2 img:nth-child(2) {
+  position: relative;
+  z-index: 2;
+}

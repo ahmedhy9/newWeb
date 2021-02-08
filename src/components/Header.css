@@ -1,0 +1,103 @@
+.main-header {
+  overflow: hidden;
+}
+
+.navbar {
+  height: 50px;
+  width: 100%;
+  padding-top: 20px;
+}
+.navbar h2 {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+.navbar button {
+  width: 120px;
+  height: 50px;
+  color: white;
+  font-weight: 600;
+  text-transform: capitalize;
+  border-radius: 60px;
+  background: transparent;
+  border: 2px solid white;
+}
+.container-fluid {
+  padding: 0 60px 0 60px;
+}
+.content-header {
+  margin-top: 150px;
+}
+.content-header p {
+  width: 50%;
+  color: #b1aaaa;
+  font-size: 20px;
+}
+.content-header h1 {
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.head-photes {
+  margin-top: 150px;
+}
+.head-photes div {
+  padding: 15px;
+}
+.svg-content {
+  position: absolute;
+  right: -130px;
+  width: 950px;
+  transform: scale(0.7);
+  top: -1205px;
+}
+.svg-content svg {
+  position: relative;
+  width: 2600px;
+  height: 2600px;
+}
+.main-header {
+  position: relative;
+}
+.svg-content svg circle:nth-child(1) {
+  fill: #fb5253;
+}
+.svg-content svg circle:nth-child(2) {
+  fill: #fdb65a;
+}
+.svg-content svg circle:nth-child(3) {
+  fill: #3a4151;
+}
+.section-two {
+  margin-top: 150px;
+  text-align: center;
+}
+.section-two h2 {
+  font-size: 50px;
+  width: 60%;
+  margin: 0 auto 70px auto;
+}
+.footer {
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+.content-footer {
+  width: max-content;
+  margin: auto;
+}
+
+.footer p {
+  font-size: 20px;
+  width: max-content;
+  margin: auto;
+}
+.form-1 {
+  width: max-content;
+  margin: auto;
+}
+.content-footer h2 {
+  font-size: 55px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
